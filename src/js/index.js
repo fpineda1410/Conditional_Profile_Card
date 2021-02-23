@@ -34,7 +34,8 @@ function render(variables = {}) {
   }
 
   //if (variables.name!=null) name = "<h1>${name}</h1>";
-
+//force with lease pushea y ya
+//merge une dos ramas
   // reset the website body with the new html output
   document.querySelector(
     "#widget_content"
