@@ -39,7 +39,7 @@ function render(variables = {}) {
   // reset the website body with the new html output
   document.querySelector(
     "#widget_content"
-  ).innerHTML = `<div class="widget"> //document object model accesing the DOM
+  ).innerHTML = `<div class="widget"> 
             ${cover}
           <img src="${variables.avatarURL}" class="photo" />
           <h1>${variables.name} ${variables.lastname}</h1>
