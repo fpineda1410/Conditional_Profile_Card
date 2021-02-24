@@ -34,8 +34,8 @@ function render(variables = {}) {
   }
 
   //if (variables.name!=null) name = "<h1>${name}</h1>";
-//force with lease pushea y ya
-//merge une dos ramas
+//force with lease pushea y ya --comprar al mismo lugar de la plataforma domain name-name chip Que sea felxible para hacer deployment
+//merge une dos ramas Vercel-Surge-Firebase-Servidor de Google y de apps-AWS muy solicitud-ambos son gratuitos y con base al uso  deployments front end Heroku puede llegar a ser compleja
   // reset the website body with the new html output
   document.querySelector(
     "#widget_content"
